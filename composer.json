@@ -1,0 +1,28 @@
+{
+  "name": "bugsniper/cakephp-seed",
+  "description": "Provides a simple mechanism for seeding data into a CakePHP application's database.",
+  "type": "cakephp-plugin",
+  "keywords": [
+    "testing",
+    "cakephp",
+    "shell"
+  ],
+  "homepage": "http://github.com/bugsniper/Seed",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Viktor Belashov"
+    }
+  ],
+  "support": {
+    "issues": "http://github.com/bugsniper/Seed/issues",
+    "source": "http://github.com/bugsniper/Seed"
+  },
+  "require": {
+    "php": ">=5.3",
+    "composer/installers": "~1.0"
+  },
+  "extra": {
+    "installer-name": "Seed"
+  }
+}
